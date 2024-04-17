@@ -1,0 +1,7 @@
+.section {
+  padding: 1rem;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  align-content: center;
+}
